@@ -1,4 +1,0 @@
-
-hello Git. First day of Git Training.
-
-this session covers the Git commands and git repoitory
